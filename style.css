@@ -1,0 +1,126 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body {
+ background-color: black;
+ color: aliceblue;
+ text-align: center;
+}
+
+h1 {
+font-family: 'Roboto', sans-serif;
+}
+
+a {
+color: rgb(250, 0, 0);
+text-decoration: none;
+}
+
+
+a:hover {
+position: relative;
+cursor: pointer;
+color: rgb(155, 50, 50);
+}
+
+.face-gog button { 
+outline: none;
+background-color: white;
+vertical-align: middle;
+color: black;
+gap: 3rem;
+margin: 30px auto;
+padding: 15px 50px;
+border: none;
+border-radius: 20px;
+text-align: center;
+}
+
+.face-gog button:hover {
+position: relative;
+cursor: pointer;
+background-color: #EF5466;
+color: white;
+}
+
+form {
+    width: fit-content;
+    text-align: left;
+    margin: auto auto;
+    padding: 10px 20px;
+
+}
+
+.form-log input {
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 10px;
+    padding: 15px 60px;
+    font-size: 14px;
+    font-weight: 300;
+     width: 100%;
+}
+
+
+.checkbox {
+justify-content: center;
+display: flex;
+}
+
+.label-lol {
+justify-content: center;
+display: flex;
+}
+
+.kaydol button {
+vertical-align: middle;
+background-color: #EF5466;
+color:  white;
+gap: 3rem;
+margin: 30px auto;
+padding: 20px 130px;
+border: none;
+border-radius: 30px;
+text-align: center;
+}
+
+.kaydol button:hover {
+position: relative;
+cursor: pointer;
+color: white;
+background-color: rgb(224, 19, 19);
+}
+
+.lol-log {
+justify-content: center;
+display: flex;
+}
+
+.apple {
+justify-content: center;
+ display: flex;
+}
+
+h3 {
+    color: white;
+}
+
+.noter-giriş {
+    margin-left: auto;
+    padding: 60px 50px;
+    justify-content: center;
+    display: flex;
+}
+
+.noter-giriş .noter {
+    color: rgb(203, 203, 203);
+}
+
+.noter-giriş .noter :hover{
+cursor: pointer;
+position: relative;
+color: white;
+}
+
