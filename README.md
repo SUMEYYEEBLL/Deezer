@@ -1,1 +1,1 @@
-https://euphonious-otter-790d93.netlify.app/
+https://deezer-project.netlify.app/
